@@ -20,4 +20,21 @@ Essas características fazem das DAOs uma ferramenta poderosa para a criação d
 ## DAO na área de finanças
 BlockFund DAO
 
-## 
+## Missão
+Nossa missão é revolucionar o acesso a serviços financeiros por meio de uma governança descentralizada, transparente e justa. Capacitar indivíduos e comunidades ao redor do mundo, fornecendo ferramentas inovadoras que promovam autonomia financeira e inclusão digital, enquanto asseguramos segurança e sustentabilidade por meio da tecnologia blockchain. Buscamos criar um ecossistema financeiro colaborativo, onde todos os membros tenham voz ativa na construção de um futuro mais equitativo e próspero.
+
+## Visão
+Ser uma referência global em inovação financeira descentralizada, oferecendo soluções acessíveis, seguras e inclusivas que transformem a maneira como as pessoas gerenciam e acessam serviços financeiros. Queremos liderar o caminho para um futuro em que as finanças sejam governadas por comunidades de forma colaborativa, justa e sem barreiras, criando oportunidades para todos, independentemente de sua localização ou situação econômica.
+
+## Objetivos
+Inclusão Financeira: Facilitar o acesso a serviços financeiros de qualidade para populações subatendidas e não-bancarizadas, promovendo a equidade e a justiça social por meio de soluções descentralizadas.
+
+Governança Transparente: Implementar um sistema de governança em que todos os membros possam participar de maneira justa, transparente e segura na tomada de decisões da DAO.
+
+Inovação em Finanças Descentralizadas (DeFi): Desenvolver e promover ferramentas financeiras descentralizadas que ofereçam alternativas mais eficientes, seguras e acessíveis do que as soluções tradicionais.
+
+Segurança e Sustentabilidade: Garantir que todos os ativos e transações dentro da DAO sejam protegidos por contratos inteligentes robustos e sustentáveis, minimizando riscos e maximizando a confiança dos participantes.
+
+Educação e Capacitação: Fornecer recursos educacionais e capacitação para que os membros entendam plenamente os benefícios e riscos das finanças descentralizadas e possam tomar decisões informadas.
+
+Expansão Global: Aumentar o alcance global da DAO, atraindo membros de diferentes regiões e culturas, criando uma rede verdadeiramente diversificada e internacional.
